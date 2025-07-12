@@ -54,6 +54,7 @@
 ![Most Used Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudra-xi&theme=github_dark)
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra-xi&theme=github_dark)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra-xi&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudra-xi&theme=github_dark&utcOffset=5.3)
 
 ---
 
