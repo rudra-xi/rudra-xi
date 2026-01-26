@@ -1,12 +1,11 @@
 # 🚀 Rudra | Full Stack Developer & UI/UX Designer
 
-### 🌟 About Me
+### 🌟 Professional Profile
 
--    🔭 Currently learning **Next.js** (and loving the chaos!) with TypeScript & stunning animations
--    🌱 Exploring **serverless** & **performance optimization**
--    🎨 Ex-graphic designer turned developer
--    💡 Open-source & dev community advocate
--    ☕ Can brew coffee while debugging React hooks
+- 🔭 **Next.js Expert:** Specializing in App Router, Server Components, and high-performance architecture.
+- 🎨 **Design-Led:** Ex-graphic designer merging high-end aesthetics (GSAP/Framer) with robust logic.
+- 🏗️ **Shipped:** Proven track record of building production-ready apps with optimized SEO and Vitals.
+- ☕ **Multitasking:** Can brew coffee while debugging React hooks.
 
 ---
 
@@ -52,16 +51,14 @@
 
 ![Detailed Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra-xi&theme=github_dark)
 ![Most Used Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudra-xi&theme=github_dark)
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudra-xi&theme=github_dark)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudra-xi&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudra-xi&theme=github_dark&utcOffset=5.3)
 
 ---
 
 ### 🏆 Project Showcase
 
-[![Geek Nook](https://github-readme-stats.vercel.app/api/pin/?username=rudra-xi&repo=rudra-geek-nook&theme=github_dark)](https://github.com/rudra-xi/rudra-geek-nook)
-[![Finance Flow](https://github-readme-stats.vercel.app/api/pin/?username=rudra-xi&repo=finance-flow&theme=github_dark)](https://github.com/rudra-xi/finance-flow)
+[![Memoir Veritas](https://github-readme-stats.vercel.app/api/pin/?username=rudra-xi&repo=memoir-veritas&theme=github_dark)](https://github.com/rudra-xi/memoir-veritas)
+[![Wyld Ruby](https://github-readme-stats.vercel.app/api/pin/?username=rudra-xi&repo=wyld-ruby&theme=github_dark)](https://github.com/rudra-xi/wyld-ruby)
 [![E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=rudra-xi&repo=envy-ecommerce&theme=github_dark)](https://github.com/rudra-xi/envy-ecommerce)
 [![Dark Desire](https://github-readme-stats.vercel.app/api/pin/?username=rudra-xi&repo=archive-dark-desire&theme=github_dark)](https://github.com/rudra-xi/archive-dark-desire)
 
@@ -69,21 +66,15 @@
 
 ### 🌐 Let's Collaborate
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Portfolio")](https://rudra-geek-nook.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF "Portfolio")](https://rudra-geek-nook.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/goutam-rudraxi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white "Email")](mailto:goutam.prasad.2707@gmail.com)
 
 ---
 
-### 💭 Development Philosophy
-
-> _"Great design breathes life into possibilities—elegantly coded, skillfully structured, and forever inviting users to embark on new adventures."_
-
----
-
 ### 😂 Just for Fun
 
-> _When you finally fix a bug at 3am and have no idea how you did it._
+> _When Git asks for a commit message and all you have is: `fix stuff idk`_
 
 ![Funny Coding Gif](https://i.imgur.com/KgCG2ZF.gif)
 
